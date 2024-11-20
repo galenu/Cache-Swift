@@ -1,0 +1,6 @@
+framework module Cache_Swift {
+  umbrella header "Cache-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

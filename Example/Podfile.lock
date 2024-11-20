@@ -1,0 +1,23 @@
+PODS:
+  - Cache (6.0.0)
+  - Cache-Swift (1.0.0):
+    - Cache
+
+DEPENDENCIES:
+  - Cache-Swift (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Cache
+
+EXTERNAL SOURCES:
+  Cache-Swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Cache: 4ca7e00363fca5455f26534e5607634c820ffc2d
+  Cache-Swift: 0067549c90bf73e4f0cea75c05299baa52c90f84
+
+PODFILE CHECKSUM: d4edf44c0d20f953dade5e043db2e7ae2d997706
+
+COCOAPODS: 1.15.2
